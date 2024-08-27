@@ -26,4 +26,13 @@ Removed Variables (neither targets nor features):
 
 ### Compiling Training and Evaluating the Model
 
+The model did not achieve the target performance, as it only achieved an accuracy of 72.34 percent, and a loss of 55.65 percent.
+
+Steps Taken to Increase Model Performance
+- modified cutoff of APPLICATION_TYPE
+- modified cutoff of CLASSIFICATION
+- modified cutoff of hidden nodes in layer 1
+- modified cutoff of hidden nodes in layer 2
+
 ## Summary
+The model's performance did not meet expectations, reaching an accuracy of 72.34% and a loss of 55.65%. Further analysis, optimization, and trying different models may be necessary to increase the model's effectiveness.
