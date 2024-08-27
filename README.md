@@ -6,7 +6,24 @@ The goal of this deep learning model is to help the nonprofit foundation Alphabe
 ## Results
 
 ### Data Preprocessing
+Target Variables:
+- IS_SUCCESSFUL
 
-### Compiling, Training, and Evaluating the Model
+Feature Variables:
+- APPLICATION_TYPE
+- AFFILIATION
+- CLASSIFICATION
+- USE_CASE
+- ORGANIZATION
+- STATUS
+- INCOME_AMT
+- SPECIAL_CONSIDERATIONS
+- ASK_AMT 
+
+Removed Variables (neither targets nor features):
+- EIN
+- NAME
+
+### Compiling Training and Evaluating the Model
 
 ## Summary
